@@ -63,8 +63,7 @@ RegisterNumber:212224230097
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
 
-
-![image](https://github.com/user-attachments/assets/761034fb-7f78-458f-86d8-1872cc5afc53)
+![image](https://github.com/user-attachments/assets/f5491fef-ac77-47a5-82c6-1353d1378c07)
 
 **RESULTS**
  Thus the JK flipflop using verilog and validating their functionality using
